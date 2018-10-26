@@ -1,6 +1,10 @@
-3 redirections
-1 setup the environment
-4 manipulations
-2 basic terminal operations
-2 basic terminal operations
-2 basic terminal operations
+yes
+yes
+no
+ok
+ok
+true
+false
+false 1
+false 2
+true 1 true 2

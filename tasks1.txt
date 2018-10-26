@@ -1,0 +1,5 @@
+false
+no
+ok
+true
+yes
